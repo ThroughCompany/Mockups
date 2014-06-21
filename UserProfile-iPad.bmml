@@ -11,7 +11,7 @@
         <color>16777215</color>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="193" y="259" w="102" h="102" measuredW="128" measuredH="128" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="193" y="259" w="102" h="102" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <src>../Code/JS/ThroughCompany/public/images/avatar.png</src>
       </controlProperties>
@@ -133,7 +133,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::Image" x="979" y="332" w="102" h="102" measuredW="128" measuredH="128" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Image" x="979" y="332" w="102" h="102" measuredW="77" measuredH="79" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <src>../Code/JS/ThroughCompany/public/images/avatar.png</src>
       </controlProperties>
@@ -225,7 +225,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="68" controlTypeID="com.balsamiq.mockups::Image" x="2015" y="281" w="102" h="102" measuredW="128" measuredH="128" zOrder="40" locked="false" isInGroup="-1">
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Image" x="2015" y="281" w="102" h="102" measuredW="77" measuredH="79" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
         <src>../Code/JS/ThroughCompany/public/images/avatar.png</src>
       </controlProperties>
@@ -292,6 +292,11 @@
       <controlProperties>
         <color>16777215</color>
         <icon>%24ACCOUNT/assets/icon_bars.png%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::ComboBox" x="187" y="695" w="-1" h="-1" measuredW="93" measuredH="24" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ComboBox</text>
       </controlProperties>
     </control>
   </controls>
