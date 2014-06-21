@@ -61,14 +61,14 @@
         <text>Foundation</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Canvas" x="207" y="395" w="50" h="39" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Canvas" x="207" y="475" w="50" h="39" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <borderColor>3355443</borderColor>
         <borderStyle>none</borderStyle>
         <color>3355443</color>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Icon" x="220" y="402" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Icon" x="220" y="482" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>%24ACCOUNT/assets/icon_arrow-circle-o-left.png%7Csmall</icon>
       </controlProperties>
@@ -144,16 +144,52 @@
         <color>2236962</color>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="76" y="288" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="76" y="288" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
-        <text>People</text>
+        <text>Documents</text>
       </controlProperties>
     </control>
     <control controlID="38" controlTypeID="com.balsamiq.mockups::Icon" x="51" y="291" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
-        <icon>%24ACCOUNT/assets/icon_users.png%7Cxsmall</icon>
+        <icon>%24ACCOUNT/assets/icon_file-word-o.png%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="37" y="321" w="220" h="43" measuredW="100" measuredH="70" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>3355443</borderColor>
+        <color>2236962</color>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="76" y="331" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Cap%20Table</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Icon" x="51" y="334" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>%24ACCOUNT/assets/icon_bar-chart-o.png%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Canvas" x="37" y="364" w="220" h="43" measuredW="100" measuredH="70" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>3355443</borderColor>
+        <color>2236962</color>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="76" y="374" w="-1" h="-1" measuredW="36" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>Users</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Icon" x="51" y="377" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>%24ACCOUNT/assets/icon_paw.png%7Cxsmall</icon>
       </controlProperties>
     </control>
   </controls>
