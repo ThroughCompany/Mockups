@@ -192,5 +192,82 @@
         <icon>%24ACCOUNT/assets/icon_paw.png%7Cxsmall</icon>
       </controlProperties>
     </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::ButtonBar" x="279" y="171" w="-1" h="-1" measuredW="218" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Foundation%2C%20Seed%2C%20Series%20A</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Button" x="533" y="168" w="95" h="24" measuredW="47" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>New</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Label" x="311" y="224" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Stockholder</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Label" x="456" y="224" w="-1" h="-1" measuredW="113" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Class%20of%20Securities</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="628" y="224" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%25%20Ownership</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="279" y="262" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::TextInput" x="307" y="261" w="124" h="-1" measuredW="103" measuredH="24" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Thomas%20Officer</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::TextInput" x="620" y="260" w="154" h="-1" measuredW="79" measuredH="23" zOrder="38" locked="false" isInGroup="-1"/>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Label" x="279" y="302" w="-1" h="-1" measuredW="11" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2.</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::TextInput" x="307" y="301" w="124" h="-1" measuredW="102" measuredH="24" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Timothy%20Officer</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::TextInput" x="620" y="300" w="154" h="-1" measuredW="79" measuredH="23" zOrder="41" locked="false" isInGroup="-1"/>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::ComboBox" x="446" y="261" w="161" h="-1" measuredW="120" measuredH="24" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Common%20Stock</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::ComboBox" x="446" y="300" w="161" h="-1" measuredW="120" measuredH="24" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Common%20Stock</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Icon" x="540" y="172" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>%24ACCOUNT/assets/icon_plus.png%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Label" x="797" y="224" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Series</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::ComboBox" x="789" y="260" w="161" h="-1" measuredW="94" measuredH="24" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Foundation</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::ComboBox" x="789" y="299" w="161" h="-1" measuredW="120" measuredH="24" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seed</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
