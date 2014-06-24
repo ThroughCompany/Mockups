@@ -593,6 +593,7 @@
     </control>
     <control controlID="322" controlTypeID="com.balsamiq.mockups::Arrow" x="1614" y="84" w="248" h="164" measuredW="150" measuredH="100" zOrder="99" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>13576743</color>
         <text/>
       </controlProperties>
     </control>
@@ -615,6 +616,7 @@
     </control>
     <control controlID="326" controlTypeID="com.balsamiq.mockups::Arrow" x="1071" y="76" w="475" h="189" measuredW="150" measuredH="100" zOrder="102" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>13576743</color>
         <direction>bottom</direction>
         <text/>
       </controlProperties>
@@ -647,6 +649,85 @@
       <controlProperties>
         <shape>roundRect</shape>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="334" controlTypeID="com.balsamiq.mockups::Label" x="2209" y="322" w="-1" h="-1" measuredW="163" measuredH="20" zOrder="108" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Organized%20on%20March%2024%2C%202014</text>
+      </controlProperties>
+    </control>
+    <control controlID="335" controlTypeID="com.balsamiq.mockups::Label" x="2202" y="291" w="-1" h="-1" measuredW="189" measuredH="26" zOrder="109" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Delaware%20C%20corporation</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="336" controlTypeID="com.balsamiq.mockups::Link" x="2122" y="362" w="-1" h="-1" measuredW="171" measuredH="20" zOrder="110" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Certificate%20of%20Incorporation</text>
+      </controlProperties>
+    </control>
+    <control controlID="337" controlTypeID="com.balsamiq.mockups::Label" x="2122" y="395" w="-1" h="-1" measuredW="117" measuredH="22" zOrder="111" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Authorized%20shares%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="338" controlTypeID="com.balsamiq.mockups::Label" x="2159" y="427" w="-1" h="-1" measuredW="262" measuredH="20" zOrder="112" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>100%2C000%20shares%20Common%20Stock%2C%20par%20value%20%24.001</text>
+      </controlProperties>
+    </control>
+    <control controlID="340" controlTypeID="com.balsamiq.mockups::Label" x="2122" y="463" w="-1" h="-1" measuredW="187" measuredH="22" zOrder="113" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Agent%20for%20service%20of%20process%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="341" controlTypeID="com.balsamiq.mockups::Label" x="2159" y="494" w="-1" h="-1" measuredW="122" measuredH="20" zOrder="114" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>12</size>
+        <text>InCorp%20Services%2C%20Inc.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="342" controlTypeID="com.balsamiq.mockups::Label" x="2188" y="511" w="-1" h="-1" measuredW="138" measuredH="20" zOrder="115" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Once%20Commerce%20Center%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="343" controlTypeID="com.balsamiq.mockups::Label" x="2188" y="527" w="-1" h="-1" measuredW="120" measuredH="20" zOrder="116" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>1201%20Orange%20St.%20%23600</text>
+      </controlProperties>
+    </control>
+    <control controlID="344" controlTypeID="com.balsamiq.mockups::Label" x="2188" y="544" w="-1" h="-1" measuredW="120" measuredH="20" zOrder="117" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Wilmington%2C%20DE%2019899</text>
+      </controlProperties>
+    </control>
+    <control controlID="345" controlTypeID="com.balsamiq.mockups::Button" x="2409" y="777" w="-1" h="-1" measuredW="69" measuredH="24" zOrder="118" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>false</menuIcon>
+        <text>Amend.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="347" controlTypeID="com.balsamiq.mockups::Arrow" x="2478" y="801" w="103" h="140" measuredW="150" measuredH="100" zOrder="119" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="348" controlTypeID="com.balsamiq.mockups::StickyNote" x="2528" y="952" w="265" h="111" measuredW="109" measuredH="123" zOrder="120" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Only%20admin%20can%20amend.%20Does%20that%20mean%20only%20they%20can%20see%20this%20button%3F</text>
       </controlProperties>
     </control>
   </controls>
