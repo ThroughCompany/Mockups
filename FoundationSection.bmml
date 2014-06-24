@@ -619,28 +619,34 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="327" controlTypeID="com.balsamiq.mockups::HRule" x="916" y="662" w="217" h="-1" measuredW="100" measuredH="10" zOrder="103" locked="false" isInGroup="-1">
+    <control controlID="327" controlTypeID="com.balsamiq.mockups::HRule" x="916" y="662" w="217" h="-1" measuredW="100" measuredH="10" zOrder="104" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10066329</color>
       </controlProperties>
     </control>
-    <control controlID="329" controlTypeID="com.balsamiq.mockups::Image" x="2661" y="265" w="367" h="244" measuredW="1200" measuredH="798" zOrder="104" locked="false" isInGroup="-1">
+    <control controlID="330" controlTypeID="com.balsamiq.mockups::Label" x="2642" y="237" w="-1" h="-1" measuredW="422" measuredH="48" zOrder="105" locked="false" isInGroup="-1">
       <controlProperties>
-        <borderStyle>square</borderStyle>
-        <src>./assets/highlands.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="330" controlTypeID="com.balsamiq.mockups::Label" x="2670" y="524" w="-1" h="-1" measuredW="253" measuredH="32" zOrder="105" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>24</size>
+        <size>40</size>
         <text>Through%20Company%2C%20Inc.%20</text>
       </controlProperties>
     </control>
-    <control controlID="331" controlTypeID="com.balsamiq.mockups::Label" x="2670" y="563" w="-1" h="-1" measuredW="94" measuredH="22" zOrder="106" locked="false" isInGroup="-1">
+    <control controlID="331" controlTypeID="com.balsamiq.mockups::Label" x="2957" y="293" w="-1" h="-1" measuredW="94" measuredH="22" zOrder="106" locked="false" isInGroup="-1">
       <controlProperties>
         <size>14</size>
         <text>June%2024%2C%202014</text>
+      </controlProperties>
+    </control>
+    <control controlID="332" controlTypeID="com.balsamiq.mockups::Image" x="2039" y="221" w="1040" h="290" measuredW="2488" measuredH="717" zOrder="103" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>194%2C319%2C800%2C346</crop>
+        <src>./assets/landscape.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="333" controlTypeID="com.balsamiq.mockups::RoundButton" x="2096" y="255" w="401" h="561" measuredW="32" measuredH="32" zOrder="107" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>roundRect</shape>
+        <text/>
       </controlProperties>
     </control>
   </controls>
