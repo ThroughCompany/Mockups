@@ -645,10 +645,10 @@
       </controlProperties>
     </control>
     <control controlID="259" controlTypeID="com.balsamiq.mockups::PieChart" x="2084" y="557" w="262" h="265" measuredW="180" measuredH="180" zOrder="112" locked="false" isInGroup="-1"/>
-    <control controlID="260" controlTypeID="com.balsamiq.mockups::DataGrid" x="2426" y="629" w="609" h="84" measuredW="381" measuredH="78" zOrder="113" locked="false" isInGroup="-1">
+    <control controlID="260" controlTypeID="com.balsamiq.mockups::DataGrid" x="2424" y="629" w="617" h="84" measuredW="483" measuredH="78" zOrder="113" locked="false" isInGroup="-1">
       <controlProperties>
         <hLines>false</hLines>
-        <text>Investor%20%2C%20Class%20of%20Security%2C%20Amount%20Issued%2C%20Price%0AThomas%20F.%20Officer%2C%20Common%20Stock%2C%2025000%2C%20%2425%0ATimothy%20C.%20Officer%2C%20Common%20Stock%2C%2025000%2C%20%2425</text>
+        <text>Investor%20%2C%20Class%20of%20Security%2C%20Amount%20Issued%2C%20Price%2C%20Date%0AThomas%20F.%20Officer%2C%20Common%20Stock%2C%2025000%2C%20%2425%2C%20March%2024%202014%0ATimothy%20C.%20Officer%2C%20Common%20Stock%2C%2025000%2C%20%2425%2C%20March%2024%202014</text>
         <vLines>true</vLines>
       </controlProperties>
     </control>
