@@ -1,0 +1,133 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1639" measuredH="814" mockupW="1495" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="379" y="46" w="1260" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>7775663</color>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="380" y="119" w="1258" h="67" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="448" y="133" w="79" h="-1" measuredW="54" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Through%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::HRule" x="380" y="180" w="1258" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7880452</color>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="463" y="147" w="87" h="-1" measuredW="57" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Company</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="400" y="128" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <icon>%24ACCOUNT/assets/icon_anchor.png%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::IconLabel" x="1507" y="133" w="-1" h="-1" measuredW="93" measuredH="39" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
+        <icon>%24ACCOUNT/assets/icon_user.png%7Csmall</icon>
+        <text>Thomas%20Officer</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Icon" x="433" y="222" w="-1" h="-1" measuredW="128" measuredH="128" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>%24ACCOUNT/assets/icon_anchor.png%7Cxxlarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="593" y="289" w="-1" h="-1" measuredW="205" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Through%20Company%2C%20Inc.</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="597" y="319" w="-1" h="-1" measuredW="147" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Delaware%20C%20corporation</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::IconLabel" x="1318" y="134" w="134" h="-1" measuredW="134" measuredH="39" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
+        <icon>%24ACCOUNT/assets/icon_anchor.png%7Csmall</icon>
+        <text>Through%20Company%2C%20Inc.</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::RoundButton" x="1303" y="126" w="164" h="61" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7775663</color>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::RoundButton" x="1471" y="125" w="164" h="61" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>4555150</color>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Icon" x="1573" y="740" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <icon>%24ACCOUNT/assets/icon_cog.png%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="1564" y="772" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Settings</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::RoundButton" x="879" y="222" w="445" h="180" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::RoundButton" x="1355" y="222" w="245" h="488" measuredW="32" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::RoundButton" x="879" y="435" w="445" h="275" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::RoundButton" x="433" y="435" w="412" h="275" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::StickyNote" x="144" y="372" w="350" h="310" measuredW="109" measuredH="123" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>All%20the%20things%20Through%20Company%20can%20do%20%28where%3F%29%3A%20%0A%281%20--%20soon%20--%20%29%20incorporate%3B%20%0A%09-%20choose%20company%20type%3B%0A%09-%20draft%20Articles%20of%20Incorporation%3B%0A%09-%20hire%20agent%20for%20service%20of%20process%3B%0A%282%20--%20soon%20--%29%20host%20incorporator%20meeting%3B%20%0A%283%29%20%20%0A%284%29%20appoint%20board%20members%3B%0A%09-%20designate%20new%20admin.%20%0A%285%29%20adopt%20bylaws%3B%20%0A%286%29%20sell%20shares%3B%0A%09-%20design%20vesting%20plan%3B%20%20%0A%287%29%20add%20operations%3A%20%0A%09-%20forgien%20corporation%20registration%3B%20%0A%09-%20municipal%20registration%3B%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
