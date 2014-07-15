@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="2395" measuredH="839" mockupW="2187" mockupH="768">
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="2395" measuredH="1190" mockupW="2187" mockupH="1119">
   <controls>
     <control controlID="51" controlTypeID="com.balsamiq.mockups::Canvas" x="336" y="144" w="1258" h="67" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
@@ -209,6 +209,37 @@
     <control controlID="453" controlTypeID="com.balsamiq.mockups::ComboBox" x="1933" y="648" w="-1" h="-1" measuredW="139" measuredH="24" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <text>State%20incorporated</text>
+      </controlProperties>
+    </control>
+    <control controlID="454" controlTypeID="com.balsamiq.mockups::Arrow" x="1271" y="441" w="389" h="513" measuredW="150" measuredH="100" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="455" controlTypeID="com.balsamiq.mockups::StickyNote" x="1561" y="876" w="611" h="314" measuredW="109" measuredH="123" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eventually%2C%20we%20will%20include%20this%20option.%20%0A%20%0AThis%20would%20start%20a%20wizard%20walkthrough%20of%20drafting%20Articles%20of%20Incorporation%2C%20which%20would%20include%20%28a%29%20choosing%20compay%20type%3B%20%28b%29%20choosing%20state%20to%20incorporate%20in%3B%20%28c%29%20checking%20available%20of%20company%20name%3B%20%28d%29%20hiring%20agent%20for%20service%20of%20process%3B%20%28e%29%20choosing%20type%20and%20number%20of%20shares%20to%20authorize.%20%0A%20%0AThat%20is%20the%20minimum%2C%20a%20company%20can%20add%20other%20things%20into%20its%20Articles%2C%20e.g.%20name%20board%20members%2C%20declare%20additional%20rights%20or%20duties%20of%20certain%20people%20%28common%20stock%20holders%2C%20board%20members%2C%20etc.%29.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="456" controlTypeID="com.balsamiq.mockups::RoundButton" x="1072" y="398" w="285" h="58" measuredW="32" measuredH="32" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>13421772</color>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="457" controlTypeID="com.balsamiq.mockups::Icon" x="1087" y="411" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>%24ACCOUNT/assets/icon_plus.png%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="458" controlTypeID="com.balsamiq.mockups::Label" x="1142" y="411" w="-1" h="-1" measuredW="192" measuredH="32" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>24</size>
+        <text>Create%20Company</text>
       </controlProperties>
     </control>
   </controls>
